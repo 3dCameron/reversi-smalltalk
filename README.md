@@ -1,5 +1,5 @@
 # Reversi - Smalltalk
-A simple Reversi game written in [Pharo](https://pharo.org/) Smalltalk. Written for CPTR241: Advanced Object-Oriented Programming.
+A simple Reversi game written in [Pharo](https://pharo.org/) Smalltalk. Created for CPTR241: Advanced Object-Oriented Programming.
 
 ## Gameplay
 See [Wikipedia](https://en.wikipedia.org/wiki/Reversi#Rules)
