@@ -1,0 +1,1 @@
+| array |array := Array2D new: 8.array atAllPut: ReversiCell new.

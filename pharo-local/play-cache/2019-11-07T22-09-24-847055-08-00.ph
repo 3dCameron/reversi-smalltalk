@@ -1,0 +1,1 @@
+(ReversiGame new) start

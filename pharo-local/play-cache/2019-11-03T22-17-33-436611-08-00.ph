@@ -1,0 +1,1 @@
+| game |game := ReversiGame new.game nextTurn.

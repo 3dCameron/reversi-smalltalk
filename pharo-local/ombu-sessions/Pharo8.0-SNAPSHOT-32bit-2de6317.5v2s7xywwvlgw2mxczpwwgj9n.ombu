@@ -1,0 +1,1 @@
+OmEntry {	#tags : {		#author : 'Unknown',		#time : DateAndTime [ '2019-11-08T14:35:08.916475-08:00' ],		#prior : OmReference [ 'Pharo8.0-SNAPSHOT-32bit-2de6317.64pfsfuq7ikvndxdb8q4z2xuw', '240' ],		#self : OmReference [ '1' ]	},	#content : EpSessionSnapshot {		#imageName : '/home/cameron/Pharo/images/reversi-smalltalk/reversi-smalltalk.image'	}}

@@ -1,0 +1,1 @@
+"Transcript show: ReversiBoard new boardAsString."ReversiBoard new findCellNeighbors: 5 at: 5
